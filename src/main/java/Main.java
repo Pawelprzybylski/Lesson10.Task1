@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Content {
+public class Main {
 
     public static void printContent() throws IOException {
         FileReader fileReader = new FileReader();
